@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar Vanve</h1>
 
-<h3 align="center">💻 Python Developer | 🌐 Full Stack Learner | 🤖 AI Enthusiast</h3>
+<h3 align="center">💻 Python Developer | 🌐 Full Stack Developerr | 🤖 AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;Python+%7C+Flask+Developer;Building+AI+Study+Assistant;Always+Learning+New+Technologies" />
