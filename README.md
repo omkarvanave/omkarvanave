@@ -35,39 +35,6 @@
 - 🎮 KBC Game
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=omkarvanave&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=omkarvanave&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarvanave&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omkarvanave&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
----
-
-## 📈 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=omkarvanave&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 GitHub: https://github.com/omkarvanave
