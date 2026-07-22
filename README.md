@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Learning **Python, Flask, JavaScript & SQL**
+- 🌱 Learning **Python,HTML,CSS,JS Flask, JavaScript & SQL**
 - 🎯 Goal: Become a Professional Full Stack Python Developer
 - 💡 Passionate about AI & Web Development
 - 🇮🇳 From India
